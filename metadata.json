@@ -1,0 +1,6 @@
+{
+  "name": "Savor - Social Recipe Platform",
+  "description": "A modern social recipe sharing platform with user profiles, recipe creation with image uploads, ratings and reviews, interactive cook mode, and smart pantry search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
